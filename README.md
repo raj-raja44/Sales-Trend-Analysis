@@ -189,10 +189,12 @@ The generated analysis results can be reviewed in:
 sales_trend_results.csv
 
 📌 Project Outcome
+
 This project demonstrates practical SQL skills for business data analysis.
 The analysis converts transactional sales data into monthly revenue and order-volume metrics, making it easier to understand sales trends and support data-driven business decisions.
 
 👨‍💻 Author
+
 Raju Otlam
 Aspiring Data Analyst
 Skills: SQL | MySQL | Python | Excel | Power BI | Data Analysis | Data Visualization
