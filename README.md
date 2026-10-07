@@ -89,15 +89,23 @@ ORDER BY
 
 ## 📊 Sample Output
 
-The query generates monthly sales results in the following format:
+The SQL query generates the following monthly sales results:
 
 | Order Year | Order Month | Total Revenue | Order Volume |
 |---:|---:|---:|---:|
-| 2025 | 1 | 1200.00 | 5 |
-| 2025 | 2 | 1850.00 | 8 |
-| 2025 | 3 | 2100.00 | 10 |
+| 2023 | 1 | 250.00 | 1 |
+| 2023 | 2 | 350.00 | 1 |
+| 2023 | 4 | 900.75 | 3 |
+| 2023 | 5 | 220.00 | 1 |
+| 2023 | 6 | 350.00 | 1 |
 
-The complete results are available in `sales_trend_results.csv`.
+### 📌 Output Summary
+
+- **Highest monthly revenue:** 900.75 in April 2023
+- **Highest order volume:** 3 orders in April 2023
+- **Total revenue across the displayed months:** 2,070.75
+- The results show monthly differences in revenue and order volume.
+```
 
 🔄 Sales Analysis Workflow
 
